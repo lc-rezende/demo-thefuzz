@@ -1,3 +1,5 @@
+[![CI](https://github.com/lc-rezende/demo-thefuzz/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/lc-rezende/demo-thefuzz/actions/workflows/main.yml)
+
 # TheFuzz Lab - Fuzzy String Matching in Python
 
 This repository contains a Jupyter Lab notebook designed as a **lab environment** to explore and experiment with the capabilities of the [`TheFuzz`](https://github.com/seatgeek/thefuzz) Python library (formerly known as *fuzzywuzzy*).
