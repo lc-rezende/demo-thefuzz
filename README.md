@@ -37,4 +37,3 @@ Fuzzy string matching is useful when:
 ## 🔗 References
 
 - GitHub: [TheFuzz by SeatGeek](https://github.com/seatgeek/thefuzz)  
-- Docs: [https://thefuzz.readthedocs.io/](https://thefuzz.readthedocs.io/)
